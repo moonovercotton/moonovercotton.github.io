@@ -1,12 +1,12 @@
 ---
 permalink: /
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About me
 I am a master's student at the University of Science and Technology of China. My research direction is the prediction and application of time series data.
 
 # Education
